@@ -19,14 +19,14 @@
 		  <div id="nav-menu-left"></div>
 		  <div id="nav-menu">
 		  <!-- start of navigation -->
-		 <!--   <ul>-->
-			<!--  <li><a href="#">Home</a></li>-->
-			<!--  <li><a href="#">Products</a></li>-->
-			<!--  <li><a href="#">Services</a></li>-->
-			<!--  <li><a href="#">Terms</a></li>-->
-			<!--  <li><a href="#">FAQ</a></li>-->
-			<!--  <li><a href="#" style="background-image: none;">Contact Us</a></li>-->
-			<!--</ul>-->
+		    <ul>
+			  <li><a href="#">Home</a></li>
+			  <li><a href="#">Products</a></li>
+			  <li><a href="#">Services</a></li>
+			  <li><a href="#">Terms</a></li>
+			  <li><a href="#">FAQ</a></li>
+			  <li><a href="#" style="background-image: none;">Contact Us</a></li>
+			</ul>
 			<!-- end navigation -->
           </div>
 		  <div id="nav-menu-right"></div>
